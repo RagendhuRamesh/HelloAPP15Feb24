@@ -1,0 +1,14 @@
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\bin\Debug\net6.0\HelloApp15Feb.exe
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\bin\Debug\net6.0\HelloApp15Feb.deps.json
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\bin\Debug\net6.0\HelloApp15Feb.runtimeconfig.json
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\bin\Debug\net6.0\HelloApp15Feb.dll
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\bin\Debug\net6.0\HelloApp15Feb.pdb
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\obj\Debug\net6.0\HelloApp15Feb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\obj\Debug\net6.0\HelloApp15Feb.AssemblyInfoInputs.cache
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\obj\Debug\net6.0\HelloApp15Feb.AssemblyInfo.cs
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\obj\Debug\net6.0\HelloApp15Feb.csproj.CoreCompileInputs.cache
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\obj\Debug\net6.0\HelloApp15Feb.dll
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\obj\Debug\net6.0\refint\HelloApp15Feb.dll
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\obj\Debug\net6.0\HelloApp15Feb.pdb
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\obj\Debug\net6.0\HelloApp15Feb.genruntimeconfig.cache
+C:\Users\Ragendhu\source\repos\Phase4\HelloApp15Feb\HelloApp15Feb\obj\Debug\net6.0\ref\HelloApp15Feb.dll
